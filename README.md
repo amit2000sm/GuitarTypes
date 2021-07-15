@@ -1,1 +1,1 @@
-# GuitarTypes
+# Guitar Types and other Specs
