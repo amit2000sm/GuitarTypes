@@ -75,11 +75,11 @@ h4{
   margin:1% auto 3% auto;
 }
 @media (max-width:600px) {
-  .img3{
-    width: 100%;
+  p{
+    font-size: 1.5rem;
   }
-  .img4{
-    width: 100%;
+  .img1,.img2,.img3,.img4{
+    width:100%;
   }
   #Pickup,#fix-float,#Tremolo-Bridges,#cutaway{
     padding:0;
